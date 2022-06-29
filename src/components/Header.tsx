@@ -11,7 +11,7 @@ export function Header() {
         <a href="#" className="text-[17px]">Unbox</a>
       </nav>
 
-      <button className="h-[60px] w-[224px] bg-primary text-black">VER DISPONIBILIDADE</button>
+      <button className="h-[60px] w-[224px] bg-primary text-black ease-in duration-300 hover:-translate-y-1">VER DISPONIBILIDADE</button>
     </header>
   )
 }
