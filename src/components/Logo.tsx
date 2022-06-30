@@ -3,10 +3,11 @@ export function Logo() {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
-      width="144"
-      height="44"
+      width="70"
+      height="20"
       fill="none"
       viewBox="0 0 144 44"
+      className="lg:w-[144px] lg:h-[44px]"
     >
       <path fill="url(#pattern0)" d="M0 0H144V44H0z"></path>
       <defs>
